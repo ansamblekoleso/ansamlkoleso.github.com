@@ -1,0 +1,95 @@
+
+body{
+	background-image: url(background.png);
+}
+
+a{
+	text-decoration: none;
+}
+
+.button{
+	font-size: 50px;
+	text-align: center;
+	font-family: 'Comfortaa';
+	font-weight: bold;
+	padding: 10px;
+	text-decoration: none;
+}
+
+.button:hover{
+	font-size: 65px;
+}
+
+#cloak{
+	position: absolute;
+}
+
+#pogoda{
+	right: 0px;
+	position: absolute;
+	padding: 16px;
+}
+
+#google, #google:visited{
+	color: white;
+}
+
+#gmail, #gmail:visited{
+	color: white;
+}
+
+#youTube, #youTube:visited{
+	color: red;
+}
+
+#youTubeMusic, #youTubeMusic:visited{
+	color: red;
+}
+
+#vk, #vk:visited{
+	color: #0890ff;
+}
+
+#inst, #inst:visited{
+	color: white;
+}
+
+#kimetsuNoYaiba, #kimetsuNoYaiba:visited{
+	color: #C71585;
+}
+
+#myHeroAcademi, #myHeroAcademi:visited{
+	color: #35db0f;
+}
+
+#naruto, #naruto:visited{
+	color: #f8ad01;
+}
+
+#googleDisk, #googleDisk:visited{
+	color: white;
+}
+
+#scratch, #scratch:visited{
+	color: #f8aa38;
+}
+
+#roblox, #roblox:visited{
+	color: #656668;
+}
+
+#minecraft, #minecraft:visited{
+	color: #35db0f;
+}
+
+#photoEditor, #photoEditor:visited{
+	color: white;
+}
+
+#discord, #discord:visited{
+	color: #5865f2;
+}
+
+#virusTotal, #virusTotal:visited{
+	color: #002fff;
+}
